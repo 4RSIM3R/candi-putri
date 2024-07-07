@@ -28,7 +28,7 @@ export const Photo = () => {
             width: 384,
         },
         {
-            src: "https://pub-c8bebddd72ea42bb9b2a388bb3d5cca5.r2.dev/cungkup.jpg",
+            src: "/src/components/images/cungkup.jpeg",
             height: 256,
             width: 384,
         },
