@@ -38,9 +38,60 @@ export const Photo = () => {
       height: 256,
       width: 384,
     },
+    {
+      src: "/src/components/images/udayana.jpg",
+      width: 384,
+      height:256,
+    },
+    {
+      src: "/src/components/images/simbol.jpg",
+      width: 384,
+      height:256,
+    },
+    {
+      src: "/src/components/images/pancuran silindris.jpg",
+      width: 384,
+      height:256,
+    },
+    {
+      src: "/src/components/images/mragayawato.jpg",
+      width: 384,
+      height:256,
+    },
+    {
+      src: "/src/components/images//mahkota raja.jpg",
+      width: 384,
+      height:256,
+    },
+    {
+      src: "/src/components/images/lingga.jpg",
+      width: 384,
+      height:256,
+    },
+    {
+      src: "/src/components/images/jolotundo.jpg",
+      width: 384,
+      height:256,
+    },
+    {
+      src: "/src/components/images/lumpang.jpg",
+      width: 384,
+      height:256,
+    },
+    {
+      src: "/src/components/images/batu pugar.jpg",
+      width: 384,
+      height:256,
+    },
+    {
+      src: "/src/components/images/naga.jpg",
+      width: 384,
+      height:256,
+    }
+
   ];
 
-  const texts = ["gempeng", "saka", "cungkup", "statue"];
+  const texts = ["gempeng", "saka", "cungkup", "statue","udayana","simbol","pancuran","mragayawati","mahkota","lingga","jolotundo","lumpang","pugar","naga"];
 
   const slides = images.map(({ src, width, height }) => ({
     src,
