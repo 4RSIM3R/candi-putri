@@ -4,6 +4,18 @@ import { useTranslation } from "react-i18next";
 import Lightbox, { SlideImage } from "yet-another-react-lightbox";
 import Inline from "yet-another-react-lightbox/plugins/inline";
 
+// Image
+import udayanaImg from '../components/images/udayana.jpg';
+import simbolImg from '../components/images/simbol.jpg';
+import pancuranSilindrisImg from '../components/images/pancuran silindris.jpg';
+import mragayawatoImg from '../components/images/mragayawato.jpg';
+import mahkotaRajaImg from '../components/images/mahkota raja.jpg';
+import linggaImg from '../components/images/lingga.jpg';
+import jolotundoImg from '../components/images/jolotundo.jpg';
+import lumpangImg from '../components/images/lumpang.jpg';
+import batuPugarImg from '../components/images/batu pugar.jpg';
+import nagaImg from '../components/images/naga.jpg';
+
 export const Photo = () => {
   const { t } = useTranslation();
 
@@ -39,54 +51,54 @@ export const Photo = () => {
       width: 384,
     },
     {
-      src: "/src/components/images/udayana.jpg",
+      src: udayanaImg,
       width: 384,
-      height:256,
+      height: 256,
     },
     {
-      src: "/src/components/images/simbol.jpg",
+      src: simbolImg,
       width: 384,
-      height:256,
+      height: 256,
     },
     {
-      src: "/src/components/images/pancuran silindris.jpg",
+      src: pancuranSilindrisImg,
       width: 384,
-      height:256,
+      height: 256,
     },
     {
-      src: "/src/components/images/mragayawato.jpg",
+      src: mragayawatoImg,
       width: 384,
-      height:256,
+      height: 256,
     },
     {
-      src: "/src/components/images//mahkota raja.jpg",
+      src: mahkotaRajaImg,
       width: 384,
-      height:256,
+      height: 256,
     },
     {
-      src: "/src/components/images/lingga.jpg",
+      src: linggaImg,
       width: 384,
-      height:256,
+      height: 256,
     },
     {
-      src: "/src/components/images/jolotundo.jpg",
+      src: jolotundoImg,
       width: 384,
-      height:256,
+      height: 256,
     },
     {
-      src: "/src/components/images/lumpang.jpg",
+      src: lumpangImg,
       width: 384,
-      height:256,
+      height: 256,
     },
     {
-      src: "/src/components/images/batu pugar.jpg",
+      src: batuPugarImg,
       width: 384,
-      height:256,
+      height: 256,
     },
     {
-      src: "/src/components/images/naga.jpg",
+      src: nagaImg,
       width: 384,
-      height:256,
+      height: 256,
     }
 
   ];
