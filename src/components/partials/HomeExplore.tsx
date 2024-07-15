@@ -7,6 +7,8 @@ export const HomeExplore = () => {
     const [showDesc, setShowDesc] = useState<number | null>(null);
 
     const explore = useMemo(() => getExplore(t), [t]);
+    console.log(explore);
+    
 
     const handleCardClick = (index: number) => {
         setShowDesc((prevState) => (prevState === index ? null : index)); // Toggle showDesc state
