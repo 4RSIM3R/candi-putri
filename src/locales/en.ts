@@ -151,5 +151,21 @@ and souvenirs. Apart from that, they also sell jerry cans and gallons for those 
                 desc: "This Ruwat ritual is carried out at Jolotundo Temple in the month of Muharram in the Hijiriah Calendar. This ritual is carried out by the local residents as a form of gratitude for this temple which has provided a source of clean mineral water. The existence of this source can provide benefits to local residents as drinking water or for daily needs. This ritual begins with bringing food from local residents and then praying in front of the temple. Then the food will be distributed to anyone who wants it.",
             },
         },
+        footer: {
+            address: {
+                title: "Address",
+                address: "Area Hutan, Hutan, Trawas District, Mojokerto Regency, East Java 61375",
+            },
+            mediaSocial: {
+                title: "Social Media",
+            },
+            contactUs: {
+                title: "Contact us",
+                content: `Cultural Heritage Preservation Center Region XI, Directorate General of Culture, Republic of Indonesia
+                Jl. Majapahit No. 141-143, Trowulan, Mojokerto, East Java.
+                Email: bpk.wil11@kemendikbud.go.id, purbakala.jatim@yahoo.com
+                Phone/Fax: (0321) 495515`,
+            },
+        },
     },
 };
