@@ -24,8 +24,8 @@ export const indonesian = {
                 title: "JAM OPERASIONAL",
                 desc: "SETIAP HARI BUKA , 24 JAM",
                 subtitle: "TIKET MASUK (HTM)",
-                "desc-1": "Dewasa/ Umum : Rp 12.500,00",
-                "desc-2": "Anak- anak : Rp 7.500,00",
+                "desc-1": "Dewasa/ Umum : Rp 12,500,00",
+                "desc-2": "Anak- anak : Rp 7,500,00",
             },
         },
         navigation: {
@@ -96,7 +96,7 @@ export const indonesian = {
             },
             mahkota: {
                 title: "Mahkota Romo (Mahkota Raja) ",
-                desc: "Di kompleks candi ini juga terdapat ruangan yang berisi patung-patung yang ditemukan di luar Candi Jolotundo tetapi masih di daerah Gunung Penanggungan. Patung-patung tersebut sebagian besar tidak utuh atau dengan pahatan yang tidak sempurna sehingga informasinya belum ditelitiSebagai sumber utama air mengalir di candi ini. Batu ini sering dipercayai beberapa mayoritas pengunjung yang berkunjung dengan tujuan spiritual. Batu ini juga biasa dibuat orang berdoa atau meditasi menurut kepercayaan masing-masing.",
+                desc: "Sebagai sumber utama air mengalir di candi ini. Batu ini sering dipercayai beberapa mayoritas pengunjung yang berkunjung dengan tujuan spiritual. Batu ini juga biasa dibuat orang berdoa atau meditasi menurut kepercayaan masing-masing.",
             },
             lingga: {
                 title: "Lingga",
