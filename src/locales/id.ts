@@ -149,5 +149,18 @@ export const indonesian = {
                 desc: "Ruwat sumber ini dilakukan di Candi Jolotundo di bulan Muharram dalam Kalender Hijiriah. Ritual ini dilakukan oleh masyarakat sekitar sebagai wujud syukur adanya candi ini yang telah melimpahkan sumber air mineral yang bersih. Adanya sumber ini dapat memberikan manfaat bagi warga sekitar sebagai air minum atau untuk kebutuhan sehari-hari. Ritual ini diawali dengan membawa makanan dari warga sekitar dan kemudian didoai di depan candi. Selanjutnya makanan tersebut akan dibagikan pada siapapun yang menginginkannya. ",
             },
         },
+        footer: {
+            address: {
+                title: "Alamat",
+                address: "Area Hutan, Hutan, Kec. Trawas, Kabupaten Mojokerto, Jawa Timur 61375",
+            },
+            mediaSocial: {
+                title: "Sosial Media",
+            },
+            contactUs: {
+                title: "Hubungi Kami",
+                content: "Balai Pelestarian Kebudayaan Wilayah XI, Direktorat Jenderal Kebudayaan Republik Indonesia Jl. Majapahit No. 141-143, Trowulan, Mojokerto, Jawa Timur. Email: bpk.wil11@kemendikbud.go.id, purbakala.jatim@yahoo.com Telepon/ Fax: (0321)495515",
+            },
+        },
     },
 };
