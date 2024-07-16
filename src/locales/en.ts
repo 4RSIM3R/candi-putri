@@ -24,8 +24,8 @@ export const english = {
                 title: "OPERATIONAL HOUR",
                 desc: "OPEN EVERYDAY, 24 HOURS",
                 subtitle: "ENTRANCE TICKET",
-                "desc-1": "Adult : Rp 12.500,00",
-                "desc-2": "Kids : Rp 7.500,00",
+                "desc-1": "Adult : Rp 12,500,00",
+                "desc-2": "Kids : Rp 7,500,00",
             },
         },
         navigation: {
